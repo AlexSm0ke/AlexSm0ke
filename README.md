@@ -1,6 +1,5 @@
 # Hi, I'm Aleksandr Ptitsyn
 ## Front-end developer
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexSm0ke&theme=tokyonight)
 
 
 ## Tech Stack
